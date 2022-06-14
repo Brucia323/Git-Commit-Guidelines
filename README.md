@@ -4,7 +4,7 @@
 <!-- We have very precise rules over how our git commit messages can be formatted. This leads to **more
 readable messages** that are easy to follow when looking through the **project history**. But also,
 we use the git commit messages to **generate the AngularJS change log**. -->
-我们对如何格式化 git 提交消息有非常精确的规则。这会导致在浏览**项目历史**时易于理解的**更具可读性的消息**。而且，我们使用 git commit 消息来**生成 AngularJS 更改日志**。
+我们对如何格式化 git 提交消息有非常精确的规则。这会导致在浏览**项目历史**时易于理解的**更具可读性的消息**。而且，我们使用 git commit 消息来**生成更改日志**。
 
 <!-- The commit message formatting can be added using a typical git workflow or through the use of a CLI
 wizard ([Commitizen](https://github.com/commitizen/cz-cli)). To use the wizard, run `yarn run commit`
